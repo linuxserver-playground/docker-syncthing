@@ -11,9 +11,9 @@ buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go  v1.36.12-20260825204
 buf.build/go/protovalidate                                  v1.4.0                                  go-module    
 busybox                                                     1.37.0-r31                              apk          
 busybox-binsh                                               1.37.0-r31                              apk          
-c-ares                                                      1.34.8-r0                               apk          
-ca-certificates                                             20260909-r0                             apk          
-ca-certificates-bundle                                      20260909-r0                             apk          
+c-ares                                                      1.34.9-r0                               apk          
+ca-certificates                                             20261020-r0                             apk          
+ca-certificates-bundle                                      20261020-r0                             apk          
 catatonit                                                   0.2.1-r0                                apk          
 cel.dev/cel-go                                              v0.32.0                                 go-module    
 cel.dev/expr                                                v0.25.3                                 go-module    
