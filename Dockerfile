@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-alpine:edge AS buildstage
+FROM ghcr.io/linuxserver-playground/baseimage-alpine:edge AS buildstage
 
 # build variables
 ARG SYNCTHING_RELEASE
@@ -34,7 +34,7 @@ RUN \
     build syncthing
 
 ############## runtime stage ##############
-FROM ghcr.io/linuxserver/baseimage-alpine:3.24
+FROM ghcr.io/linuxserver-playground/baseimage-alpine:3.24
 
 # set version label
 ARG BUILD_DATE
