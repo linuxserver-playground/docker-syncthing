@@ -1,0 +1,2 @@
+Syncthing: https://syncthing.net/donations/
+Syncthing (GitHub Sponsors): https://github.com/sponsors/syncthing
