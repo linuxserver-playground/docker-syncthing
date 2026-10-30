@@ -13,6 +13,11 @@ upstream:
   notes:
     type: github_release
     repo: syncthing/syncthing
+  sponsor:
+  - name: Syncthing
+    url: https://syncthing.net/donations/
+  - name: Syncthing (GitHub Sponsors)
+    url: https://github.com/sponsors/syncthing
 
 release:
   branch: master
